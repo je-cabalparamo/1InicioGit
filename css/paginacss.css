@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.principal{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.izquierda{
+    width: 30%;
+    background-color: crimson;
+    color:aliceblue;
+}
+
+.derecha{
+    width: 70%;
+    background-color: purple;
+    color: aliceblue;
+}
